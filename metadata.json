@@ -1,0 +1,6 @@
+{
+  "name": "Urban Bean Café",
+  "description": "Urban Bean Café in Bhopal - Artisanal coffee, wood-fired pizzas, gourmet burgers, cozy work lounge, table reservations, online ordering, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
